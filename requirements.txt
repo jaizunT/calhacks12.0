@@ -1,0 +1,14 @@
+torch
+torchvision
+tqdm
+pandas
+numpy
+opencv-python
+Pillow
+pytesseract
+ffmpeg-python
+librosa
+webrtcvad
+openai-whisper
+open_clip_torch
+scipy
