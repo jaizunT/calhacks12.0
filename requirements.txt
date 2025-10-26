@@ -11,4 +11,4 @@ librosa
 webrtcvad
 openai-whisper
 open_clip_torch
-scipy
+scipy>=1.9.0
